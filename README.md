@@ -7,6 +7,8 @@ Festival Sale is a fluid web component build upon the following UI technologies.
   - JSON to process the HTML
   - Vannila Javascript
  
+To view project without server please open index-static.html in browser
+
 # Prerequisites
   - npm
   - node
