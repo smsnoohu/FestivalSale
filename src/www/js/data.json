@@ -1,0 +1,44 @@
+{
+    "siteIdentity": {
+        "logoPath": "images/logo.png",
+        "companyName": "MZ.com"
+    },
+    "bannerDetails": {
+        "bannerImagePath": "images/banner.jpg",
+        "bannerImageTitle": "This is Header Banner"
+    },
+    "stickBox": "This is Fixed",
+    "saleEndDate": "December 23, 2019 13:00:00",
+    "saleItemsInfo": [{
+            "itemName": "CakCity Men Digital Sports Watch LED Screen Large Face Military Watches and Waterproof Casual Luminous Stopwatch",
+            "itemImagePath": "images/1.jpg",
+            "itemOriginalPrice": "15<sup>99</sup>",
+            "itemDiscountPrice": "12<sup>99</sup>"
+        },
+        {
+            "itemName": "CakCity Men s Digital Sports Watch LED Screen Large Face Military Watches and Waterproof Casual Luminous Stopwatch",
+            "itemImagePath": "images/2.jpg",
+            "itemOriginalPrice": "15<sup>99</sup>",
+            "itemDiscountPrice": "12<sup>99</sup>"
+        },
+        {
+            "itemName": "CakCity Men s Digital Sports Watch LED Screen Large Face Military Watches and Waterproof Casual Luminous Stopwatch",
+            "itemImagePath": "images/1.jpg",
+            "itemOriginalPrice": "15<sup>99</sup>",
+            "itemDiscountPrice": "12<sup>99</sup>"
+        },
+        {
+            "itemName": "CakCity Men s Digital Sports Watch LED Screen Large Face Military Watches and Waterproof Casual Luminous Stopwatch",
+            "itemImagePath": "images/2.jpg",
+            "itemOriginalPrice": "15<sup>99</sup>",
+            "itemDiscountPrice": "12<sup>99</sup>"
+        }
+    ],
+    "promoDetails": [{
+            "promoInfo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "promoInfo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+    ]
+}

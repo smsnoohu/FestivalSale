@@ -1,0 +1,12 @@
+{
+  "name": "mz-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.16.4"
+  },
+  "scripts": {
+    "start-win": "start http://localhost:3000/ & node ./src",
+    "start": "open http://localhost:3000/ & node ./src"
+  }
+}
